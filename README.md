@@ -29,7 +29,7 @@
 :: Author: M1nato-art & Gemini
 :: =======================================================================
 setlocal enabledelayedexpansion
-title 传奇机长 - WARP 极速优选战车
+title Minato- WARP 极速优选战车
 
 echo ==========================================================
 echo 🚀 开始向 Cloudflare 核心 Anycast 网段发起地网式并发过滤...
